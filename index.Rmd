@@ -1,0 +1,17 @@
+---
+title: "Olivia Cattau"
+image: "/Users/oliviacattau/Documents/photos/IMG_20180922_204853_714.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:ocattau@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+I am a fisheries graduate student at the University of Washington studying geoduck (p. generosa) conservation genetics. FInd me at Fisheries Teaching Research Laboratory Room 134 or at ocattau@uw.edu 
